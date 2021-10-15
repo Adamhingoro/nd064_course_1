@@ -30,4 +30,4 @@ jobs:
         with:
           context: ./project/techtrends
           push: true
-          tags: user/app:latest
+          tags: adamhingoro/techtrends:latest
